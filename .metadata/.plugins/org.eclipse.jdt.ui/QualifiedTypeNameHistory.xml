@@ -15,4 +15,9 @@
     <fullyQualifiedTypeName name="polymorphismDemo.BaseLogger"/>
     <fullyQualifiedTypeName name="overriding.BaseKrediManager"/>
     <fullyQualifiedTypeName name="overriding.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="abstractClasses.GameCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.WomanGameCalculator"/>
+    <fullyQualifiedTypeName name="abstractDemo.CustomerManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.OracleDataBaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.BaseDatabaseManager"/>
 </qualifiedTypeNameHistroy>
