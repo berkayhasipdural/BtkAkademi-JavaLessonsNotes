@@ -20,4 +20,12 @@
     <fullyQualifiedTypeName name="abstractDemo.CustomerManager"/>
     <fullyQualifiedTypeName name="abstractDemo.OracleDataBaseManager"/>
     <fullyQualifiedTypeName name="abstractDemo.BaseDatabaseManager"/>
+    <fullyQualifiedTypeName name="interfaces.IRepository"/>
+    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
+    <fullyQualifiedTypeName name="interfaces.ICustomerDal"/>
+    <fullyQualifiedTypeName name="interfaces.OracleCustomerDal"/>
+    <fullyQualifiedTypeName name="interfaces.MySqlCustomerDal"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IEatable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IPayable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IWorkable"/>
 </qualifiedTypeNameHistroy>
