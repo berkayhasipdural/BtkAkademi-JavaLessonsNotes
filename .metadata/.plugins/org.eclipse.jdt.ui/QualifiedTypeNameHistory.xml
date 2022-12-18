@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="reCapDemo_Classes.DortIslem"/>
     <fullyQualifiedTypeName name="java.lang.Process"/>
     <fullyQualifiedTypeName name="classWithAttributes.Product"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="inheritanceDemo.KrediUI"/>
     <fullyQualifiedTypeName name="inheritanceDemo.OgretmenKrediManager"/>
     <fullyQualifiedTypeName name="inheritanceDemo.BaseKrediManager"/>
@@ -28,4 +27,9 @@
     <fullyQualifiedTypeName name="interfaceDemo.IEatable"/>
     <fullyQualifiedTypeName name="interfaceDemo.IPayable"/>
     <fullyQualifiedTypeName name="interfaceDemo.IWorkable"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductManager"/>
+    <fullyQualifiedTypeName name="staticDemo.Product"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductValidator"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
