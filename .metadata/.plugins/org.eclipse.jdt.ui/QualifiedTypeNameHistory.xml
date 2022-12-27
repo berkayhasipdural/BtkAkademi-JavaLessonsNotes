@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="inheritanceDemo.OgretmenKrediManager"/>
     <fullyQualifiedTypeName name="inheritanceDemo.BaseKrediManager"/>
     <fullyQualifiedTypeName name="inheritanceDemo.AskerKrediManager"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="polymorphismDemo.EmailLogger"/>
     <fullyQualifiedTypeName name="polymorphismDemo.DataBaseLogger"/>
     <fullyQualifiedTypeName name="polymorphismDemo.FileLoggger"/>
@@ -42,4 +41,13 @@
     <fullyQualifiedTypeName name="T"/>
     <fullyQualifiedTypeName name="generics.MyList"/>
     <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
+    <fullyQualifiedTypeName name="repositoryDemo.IEntityRepository"/>
+    <fullyQualifiedTypeName name="repositoryDemo.Product"/>
+    <fullyQualifiedTypeName name="repositoryDemo.IEntity"/>
+    <fullyQualifiedTypeName name="repositoryDemo.Validator"/>
+    <fullyQualifiedTypeName name="repositoryDemo.Customer"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="threadingDemo1.KronometreThread"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>

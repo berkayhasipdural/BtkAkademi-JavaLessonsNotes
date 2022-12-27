@@ -11,6 +11,7 @@ INDEX VERSION 1.131+C:\Java2022\BtkAkademi JavaCamp\.metadata\.plugins\org.eclip
 98802120.index
 782096692.index
 1283515413.index
+1043825912.index
 4163541083.index
 2888110583.index
 3960057334.index
@@ -19,7 +20,6 @@ INDEX VERSION 1.131+C:\Java2022\BtkAkademi JavaCamp\.metadata\.plugins\org.eclip
 2511826987.index
 435235031.index
 3025052194.index
-2445292720.index
 187300573.index
 2959544807.index
 3216450761.index
